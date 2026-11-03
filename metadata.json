@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot",
+  "description": "A career development platform for fresh graduates featuring ATS-ready CV creation, smart job matching, application Kanban tracking, and voice mock interviews with rule-based STAR feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
